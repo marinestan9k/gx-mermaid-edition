@@ -2,7 +2,7 @@
 > This is an old project made specifically for Opera GX when they added the "Mods" feature.<br>
 > It hasn't been updated since 2024, and will it remain this way.<br>
 > Don't bother using this "Mod", and for the love of Oasis, don't even fucking bother using Opera (and its products).<br><br>
-> And one last thing: This README that you 100% are not going to read, is insanely bullshit, and will completely fuck up your brain cells. **Read at your own discretion**.
+> And one last thing: This README is insanely full of bullshit, and will completely fuck up your brain cells. If you are going to read this, **do so at your own discretion**.
 
 ![lulz](images/EPICmods.png)
 <br>
