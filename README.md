@@ -1,6 +1,9 @@
 ![lulz](images/EPICmods.png)
-<br>
-<br>
+> [!CAUTION]
+> This is an old project made specifically for Opera GX when they added the "Mods" feature.
+> It hasn't been updated since 2024, and will 100% remain that way.
+> Don't bother using this "Mod", and for the love of Oasis, don't even fucking bother using Opera and its products.
+
 (ONLY FOR PC!1!1!111!!11)
 <br>
 <br>
